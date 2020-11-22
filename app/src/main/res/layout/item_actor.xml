@@ -18,7 +18,7 @@
         <ImageView
             android:layout_width="@dimen/icon_actor_size"
             android:layout_height="@dimen/icon_actor_size"
-            tools:src="@drawable/first_ch" />
+            tools:src="@drawable/first_actor" />
 
         <TextView
             android:layout_width="80dp"
